@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science in Boston Institute Of Analytics
 - 💞️ I’m looking to collaborate on Coding, Visualizations
 - 📫 How to reach me ...
-- LinKedin
+- LinKedin -  https://www.linkedin.com/in/abhishek-more-7aa567149/
 
 <!---
 ab92-prog/ab92-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
