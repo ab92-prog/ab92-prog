@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ab92-prog
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science in Boston Institute Of Analytics
+- 🌱 I’m currently enrolled in  Data Science Programmme in Boston Institute Of Analytics
 - 💞️ I’m looking to collaborate on Coding, Visualizations
 - 📫 How to reach me ...
 - LinKedin -  https://www.linkedin.com/in/abhishek-more-7aa567149/
